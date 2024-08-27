@@ -61,5 +61,5 @@
 
 ## Deploy link
 
--   [Visualizer](https://visualizer-eta.vercel.app/)
+-   [Visualizer](https://visualizer.subbu.cloud/)
 
