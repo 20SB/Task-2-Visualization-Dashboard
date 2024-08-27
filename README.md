@@ -42,6 +42,8 @@
 3. Install backend dependencies: `npm install`.
 4. Create a `.env` file to add the required information i.e. PORT and MONGODB_URI
 5. Start the backend server: `npm start`.
+6. Make sure to create collection named 'visualizer-project' in your mongodb
+7. download json data from 'https://drive.google.com/file/d/1v1OCgio7dN5iJcPp2ruPMsEQInlkPQVr/view?usp=sharing' and import in that collection
 
 ### Frontend Setup
 
